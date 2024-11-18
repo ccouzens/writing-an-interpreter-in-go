@@ -1,2 +1,2 @@
 # writing-an-interpreter-in-go
-Tutorial from a book
+Tutorial of the [book](https://interpreterbook.com/).
